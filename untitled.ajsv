@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2023-may-15 12:06" licenseGrade="single" licenseeName="AgileJ community member" licenseeOrganization="agilej-community" populationMethod="manual" version="1.9.2.v20190518-1152">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="modelo.Prestamo" modelMemberId="modelo.Prestamo" project="BibliotecaDCEjercicio" xLocation="115" yLocation="244"/>
+        <class className="modelo.Biblioteca" modelMemberId="modelo.Biblioteca" project="BibliotecaDCEjercicio" xLocation="1021" yLocation="131"/>
+        <class className="modelo.Material" modelMemberId="modelo.Material" project="BibliotecaDCEjercicio" xLocation="834" yLocation="333"/>
+        <class className="modelo.Socio" modelMemberId="modelo.Socio" project="BibliotecaDCEjercicio" xLocation="301" yLocation="504"/>
+        <class className="modelo.Libro" modelMemberId="modelo.Libro" project="BibliotecaDCEjercicio" xLocation="893" yLocation="512"/>
+    </diagram>
+</ajsv>
